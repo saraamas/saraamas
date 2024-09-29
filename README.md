@@ -5,7 +5,7 @@ Here's a creative and visually appealing README template for your GitHub portfol
 # 🌟 **Sara Masmoudi** 🌟  
 *Software Engineer | DevOps Enthusiast*  
 
-![image](https://github.com/user-attachments/assets/29a7394a-52d5-48aa-9956-a59f5feca533)
+<img src='https://github.com/user-attachments/assets/29a7394a-52d5-48aa-9956-a59f5feca533' href='https://saraamas.github.io/'/>
 
 ## **👋 About Me**
 Hello there! I'm Sara Amas, a passionate Software Engineer with a strong interest in **DevOps**, **Cloud Technologies**, and **Machine Learning**. My mission is to streamline and automate the world of software delivery while ensuring high-quality code and seamless deployment. 🚀
