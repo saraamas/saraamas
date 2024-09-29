@@ -1,7 +1,3 @@
-Here's a creative and visually appealing README template for your GitHub portfolio, highlighting your skills in software engineering, DevOps practices, and technologies:
-
----
-
 <a href='https://saraamas.github.io/'><h1 href='https://saraamas.github.io/'>🌟 Sara Masmoudi 🌟</h1> </a>
 *Software Engineer | DevOps Enthusiast*  
 
@@ -69,6 +65,3 @@ I'm currently researching anomaly detection in DevOps pipelines. By utilizing **
   <a href="https://github.com/saraamas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
----
-
-This README template combines eye-catching colors and showcases your skills in a visually appealing way. You can customize the content and sections to further reflect your unique portfolio!
